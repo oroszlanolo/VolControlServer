@@ -1,0 +1,14 @@
+D:\Coding\VolControlServer\VolControlServer\bin\Debug\VolControlServer.exe.config
+D:\Coding\VolControlServer\VolControlServer\bin\Debug\VolControlServer.exe
+D:\Coding\VolControlServer\VolControlServer\bin\Debug\VolControlServer.pdb
+D:\Coding\VolControlServer\VolControlServer\obj\Debug\VolControlServer.csprojAssemblyReference.cache
+D:\Coding\VolControlServer\VolControlServer\obj\Debug\VolControlServer.csproj.CoreCompileInputs.cache
+D:\Coding\VolControlServer\VolControlServer\obj\Debug\VolControlServer.exe
+D:\Coding\VolControlServer\VolControlServer\obj\Debug\VolControlServer.pdb
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\bin\Debug\VolControlServer.exe.config
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\bin\Debug\VolControlServer.exe
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\bin\Debug\VolControlServer.pdb
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\obj\Debug\VolControlServer.csprojAssemblyReference.cache
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\obj\Debug\VolControlServer.csproj.CoreCompileInputs.cache
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\obj\Debug\VolControlServer.exe
+c:\Users\Balázsi Bálint\Downloads\VolControlServer\VolControlServer\obj\Debug\VolControlServer.pdb
